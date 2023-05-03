@@ -27,7 +27,11 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure provident vero quod dignissimos quisquam debitis magnam, eligendi eos et quibusdam culpa obcaecati consequatur molestiae id reprehenderit numquam vel sequi fugiat necessitatibus incidunt dicta enim veniam ex voluptatibus? Voluptas sequi quis doloribus consectetur quod in, placeat dolores delectus molestias, ab harum itaque sit iste, repellendus inventore. Distinctio hic veniam nihil quibusdam? Laboriosam soluta molestias, animi adipisci rem ad consequatur provident reiciendis excepturi nesciunt aliquam veniam. Error, in. Laborum nostrum eos soluta fugiat excepturi. Nulla non est nihil labore. Ratione, facilis. Quos voluptates nam necessitatibus aliquid sint iste saepe accusamus hic nihil?
+        I'm a skilled software developer with experience in TypeScript and
+        JavaScript, and expertise in frameworks like React, Node.js, and
+        Three.js. I'm a quick learner and collaborate closely with clients to
+        create efficient, scalable, and user-friendly solutions that solve
+        real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
